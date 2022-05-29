@@ -1,37 +1,21 @@
 ## jcstech's Blog
 
-You can use the [editor on GitHub](https://github.com/jchs/jcstech.de/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Justus-Constantin Schneider,
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+jcstech.de is my blog where I document my thoughts on tech-related topics and share valuable tips around Google Workspace. For the past three years, I have been an IT Manager at a large tech company that has grown by more than 5000 employees. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+I completed a three-year education to become an IT specialist in Germany and taught myself programming languages to automate daily tasks and complete tedious manual tasks.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+My main focus is on Google Workspace, and I have been managing a tenant with 18k+ users for two years. Many tasks within Google Workspace revolve around changing/updating users, managing and sharing files, and updating settings. A lifesaver in my daily work routine has been [GAM](https://github.com/GAM-team/GAM), specifically [GAMADV-XTD3](https://github.com/taers232c/GAMADV-XTD3/) by [Ross Scroggs](https://github.com/taers232c). This tool makes the efforts of managing Google Workspace tenants a breeze! It is a collection of functions that administrators get executed via a terminal or Google Cloud Console. GAM does bulk work, updating/creating users or groups in seconds.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+However, some problems have never been solved or have a simple solution available on GitHub. These problems can be solved/worked around via Google App Script or custom scripts. On my blog, you will find answers to these problems. I hope I can save you from frustration or tedious manual work hours. 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Thank you for stopping by, and enjoy your stay.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jchs/jcstech.de/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Reach out to me via email: [github@jcstech.de](mailto:github@jcstech.de)

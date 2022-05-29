@@ -1,4 +1,4 @@
-## jcstech's Blog
+# jcstech's Blog
 
 My name is Justus-Constantin Schneider,
 
